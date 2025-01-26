@@ -39,8 +39,7 @@ TukNetv2: ShuffleNet backbone, custom neck, and YOLOX head
 
 Results:
 
-![image](https://github.com/user-attachments/assets/1782d768-67bb-4629-9cdc-0ef978573d3b)
-
+<img src="https://github.com/user-attachments/assets/1782d768-67bb-4629-9cdc-0ef978573d3b" alt="Sample Image" width="600">
 
 <img src="https://github.com/user-attachments/assets/5a4e6eea-65a4-47be-a2a2-83114922354a" alt="Sample Image" width="600">
 
