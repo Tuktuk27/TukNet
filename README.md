@@ -12,6 +12,7 @@ OAK Camera and designed to meet the speed requirements for fast drones detection
 This master’s thesis explores the realms of computer vision and machine learning, uniting hardware 
 and software to achieve swift and intelligent object recognition and dynamic tracking. 
 
+<img src="https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a" alt="Sample Image" width="400">
 
 # YOLO Models:
 
@@ -51,8 +52,6 @@ Architecture used:
 
 
 ![image](https://github.com/user-attachments/assets/48cf1ae5-3d64-49f0-8b8e-9e7a689d990c)
-
-![image](https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a)
 
 
 # CONCLUSION
