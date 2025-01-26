@@ -10,7 +10,7 @@ TukNet:
 ShuffleNet backbone :
 ![image](https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f) | width=100)
 
-<img src="https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f" alt="Sample Image" width="200" height="100">
+<img src="https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f" alt="Sample Image" width="400">
 
 YOLOX head:
 ![image](https://github.com/user-attachments/assets/a9d5a2b5-49ec-47d9-9c20-dd5b42484ccc) | width=100)
