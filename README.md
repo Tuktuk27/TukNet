@@ -8,7 +8,9 @@ The significance of this project lies in its comprehensive approach, integrating
 
 This master’s thesis explores the realms of computer vision and machine learning, uniting hardware and software to achieve swift and intelligent object recognition and dynamic tracking. 
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a" alt="Sample Image" width="400">
+</p>
 
 # YOLO Models:
 
@@ -23,15 +25,21 @@ Lightweight Models for Edge Devices:
 
 ShuffleNet backbone :
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f" alt="Sample Image" width="600">
+</p>
 
 YOLOX head:
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/a9d5a2b5-49ec-47d9-9c20-dd5b42484ccc" alt="Sample Image" width="600">
+</p>
 
 Yunet head:
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/f2e0cb02-87b1-4b16-afbb-60cec18492ca" alt="Sample Image" width="300">
+</p>
 
 Architecture used:
 
@@ -40,12 +48,13 @@ Architecture used:
 
 # Results:
 
+<p align="center">
 <img src="https://github.com/user-attachments/assets/1782d768-67bb-4629-9cdc-0ef978573d3b" alt="Sample Image" width="600">
 
 <img src="https://github.com/user-attachments/assets/5a4e6eea-65a4-47be-a2a2-83114922354a" alt="Sample Image" width="600">
 
 <img src="https://github.com/user-attachments/assets/c57fd226-1c0b-46ca-9a69-77f376f8239c" alt="Sample Image">
-
+</p>
 
 ![image](https://github.com/user-attachments/assets/48cf1ae5-3d64-49f0-8b8e-9e7a689d990c)
 
