@@ -59,7 +59,7 @@ Architecture used:
 </p>
 
 <p align="center">
-![image](https://github.com/user-attachments/assets/48cf1ae5-3d64-49f0-8b8e-9e7a689d990c)
+<img src="https://github.com/user-attachments/assets/48cf1ae5-3d64-49f0-8b8e-9e7a689d990c" alt="Sample Image">
 </p>
 
 # CONCLUSION
