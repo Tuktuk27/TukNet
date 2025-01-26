@@ -54,10 +54,9 @@ Architecture used:
 <img src="https://github.com/user-attachments/assets/5a4e6eea-65a4-47be-a2a2-83114922354a" alt="Sample Image" width="600">
 
 <img src="https://github.com/user-attachments/assets/c57fd226-1c0b-46ca-9a69-77f376f8239c" alt="Sample Image">
-</p>
 
 ![image](https://github.com/user-attachments/assets/48cf1ae5-3d64-49f0-8b8e-9e7a689d990c)
-
+</p>
 
 # CONCLUSION
 
