@@ -1,4 +1,16 @@
 Swift Object Recognition and Tracking for fast Drones using High-Speed Cameras and Deep Learning
+
+This master’s thesis aims to rapidly identify, and comprehend objects of interest by combining high
+speed cameras, specifically Luxonis OAK-D Lite camera, with customed, tiny and efficient Pytorch 
+models, with the final goal of implementation on fast drones (fast-speed drones). The objective is to 
+achieve real-time (using a camera on board) and offline (frame-by-frame on video) implementations. 
+The significance of this project lies in its comprehensive approach, integrating fast object detection, 
+along with tracking. The expected outcome is a flexible and versatile system implemented on Luxonis 
+OAK Camera and designed to meet the speed requirements for fast drones detection. 
+This master’s thesis explores the realms of computer vision and machine learning, uniting hardware 
+and software to achieve swift and intelligent object recognition and dynamic tracking. 
+
+
 YOLO Models:
 YOLOv8 and YOLOX: Balance of speed and accuracy
 Anchor-free detection and adaptive training sample selection
@@ -17,15 +29,26 @@ YOLOX head:
 
 Yunet head:
 
-<img src="https://github.com/user-attachments/assets/f2e0cb02-87b1-4b16-afbb-60cec18492ca" alt="Sample Image" width="600">
+<img src="https://github.com/user-attachments/assets/f2e0cb02-87b1-4b16-afbb-60cec18492ca" alt="Sample Image" width="300">
 
 
 TukNetv1: ShuffleNet backbone, customed neck, and YuNet head  
 TukNetv2: ShuffleNet backbone, custom neck, and YOLOX head 
 
-<img src="https://github.com/user-attachments/assets/c57fd226-1c0b-46ca-9a69-77f376f8239c" alt="Sample Image" width="600">
+Results:
+
+<img src="https://github.com/user-attachments/assets/5a4e6eea-65a4-47be-a2a2-83114922354a" alt="Sample Image">
+
+<img src="https://github.com/user-attachments/assets/c57fd226-1c0b-46ca-9a69-77f376f8239c" alt="Sample Image">
+
+![image](https://github.com/user-attachments/assets/daf5977c-8e09-41b9-975c-2036d5ebef11)
+
+![image](https://github.com/user-attachments/assets/48cf1ae5-3d64-49f0-8b8e-9e7a689d990c)
+
+![image](https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a)
 
 
+CONCLUSION 
 The results of this study demonstrate that the object detection model successfully met the real-time 
 requirements, achieving performance levels exceeding 100 FPS. The designed models were more 
 efficient than Yolov8n and Yolox and this has pointed out the importance of the model architecture to 
@@ -45,6 +68,6 @@ rather use traditional tracking in the initial detection stage for motion flow t
 network models would later enhance speed and precision on a relevant and specific object or area. 
 Overall, this project has demonstrated the feasibility of real-time drone detection and tracking using 
 advanced neural network models. It sets a foundation for further advancements and the integration 
-of more sophisticated features such as pose estimation and hybrid detection systems. 
+of more sophisticated features such as pose estimation and hybrid detection systems.
 
 
