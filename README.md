@@ -8,20 +8,20 @@ YuNet --> Real-time face detector with only 75 856 parameters
 
 TukNet:
 ShuffleNet backbone :
-![image](https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f)
+![image](https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f) | width=100)
 
 
 YOLOX head:
-![image](https://github.com/user-attachments/assets/a9d5a2b5-49ec-47d9-9c20-dd5b42484ccc)
+![image](https://github.com/user-attachments/assets/a9d5a2b5-49ec-47d9-9c20-dd5b42484ccc) | width=100)
 
 Yunet head:
-![image](https://github.com/user-attachments/assets/f2e0cb02-87b1-4b16-afbb-60cec18492ca)
+![image](https://github.com/user-attachments/assets/f2e0cb02-87b1-4b16-afbb-60cec18492ca) | width=100)
 
 
 TukNetv1: ShuffleNet backbone, customed neck, and YuNet head  
 TukNetv2: ShuffleNet backbone, custom neck, and YOLOX head 
 
-![image](https://github.com/user-attachments/assets/c57fd226-1c0b-46ca-9a69-77f376f8239c)
+![image](https://github.com/user-attachments/assets/c57fd226-1c0b-46ca-9a69-77f376f8239c) 
 
 
 The results of this study demonstrate that the object detection model successfully met the real-time 
