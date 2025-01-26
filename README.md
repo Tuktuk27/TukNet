@@ -2,15 +2,11 @@
 
 # Abstract
 
-This master’s thesis aims to rapidly identify, and comprehend objects of interest by combining high
-speed cameras, specifically Luxonis OAK-D Lite camera, with customed, tiny and efficient Pytorch 
-models, with the final goal of implementation on fast drones (fast-speed drones). The objective is to 
-achieve real-time (using a camera on board) and offline (frame-by-frame on video) implementations. 
-The significance of this project lies in its comprehensive approach, integrating fast object detection, 
-along with tracking. The expected outcome is a flexible and versatile system implemented on Luxonis 
-OAK Camera and designed to meet the speed requirements for fast drones detection. 
-This master’s thesis explores the realms of computer vision and machine learning, uniting hardware 
-and software to achieve swift and intelligent object recognition and dynamic tracking. 
+This master’s thesis aims to rapidly identify, and comprehend objects of interest by combining highspeed cameras, specifically Luxonis OAK-D Lite camera, with customed, tiny and efficient Pytorch models, with the final goal of implementation on fast drones (fast-speed drones). The objective is to achieve real-time (using a camera on board) and offline (frame-by-frame on video) implementations. 
+
+The significance of this project lies in its comprehensive approach, integrating fast object detection, along with tracking. The expected outcome is a flexible and versatile system implemented on Luxonis OAK Camera and designed to meet the speed requirements for fast drones detection. 
+
+This master’s thesis explores the realms of computer vision and machine learning, uniting hardware and software to achieve swift and intelligent object recognition and dynamic tracking. 
 
 <img src="https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a" alt="Sample Image" width="400">
 
@@ -56,26 +52,11 @@ Architecture used:
 
 # CONCLUSION
 
-The results of this study demonstrate that the object detection model successfully met the real-time 
-requirements, achieving performance levels exceeding 100 FPS. The designed models were more 
-efficient than Yolov8n and Yolox and this has pointed out the importance of the model architecture to 
-target specific scales for object detection, but also to target specific hardware requirement such as 
-speed given a certain computational environment. Future efforts could focus on further optimizing the 
-models, however, to develop a comprehensive, swift, and reliable system specifically optimized for 
-tracking fast drones, it seems more important to incorporate pose estimation to these models. 
-Although computational power was limited, it did not ultimately impede our real-time system, and 
-Luxonis OAK modules showed promise for this application. Color cameras should however be used in 
-order to improve the reliability and versatility of the system. 
-Looking ahead, the other challenges will also involve extending the maximum detection distance and 
-developing hybrid systems tailored to two different scenarios: First detection on a wide surrounding, 
-and then tracking on a small and specific area or it. Combining neural network-based detection with 
-traditional tracking methods appears to be a practical and effective approach, but not in the manner 
-thought of at first. The strategy to create a versatile and efficient monitoring hybrid system, would 
-rather use traditional tracking in the initial detection stage for motion flow tracking, while neural 
-network models would later enhance speed and precision on a relevant and specific object or area. 
-Overall, this project has demonstrated the feasibility of real-time drone detection and tracking using 
-advanced neural network models. It sets a foundation for further advancements and the integration 
-of more sophisticated features such as pose estimation and hybrid detection systems.
+The results of this study demonstrate that the object detection model successfully met the real-time requirements, achieving performance levels exceeding 100 FPS. The designed models were more efficient than Yolov8n and Yolox and this has pointed out the importance of the model architecture to target specific scales for object detection, but also to target specific hardware requirement such as speed given a certain computational environment. Future efforts could focus on further optimizing the models, however, to develop a comprehensive, swift, and reliable system specifically optimized for tracking fast drones, it seems more important to incorporate pose estimation to these models. Although computational power was limited, it did not ultimately impede our real-time system, and Luxonis OAK modules showed promise for this application. Color cameras should however be used in order to improve the reliability and versatility of the system. 
+
+Looking ahead, the other challenges will also involve extending the maximum detection distance and developing hybrid systems tailored to two different scenarios: First detection on a wide surrounding, and then tracking on a small and specific area or it. Combining neural network-based detection with traditional tracking methods appears to be a practical and effective approach, but not in the manner thought of at first. The strategy to create a versatile and efficient monitoring hybrid system, would rather use traditional tracking in the initial detection stage for motion flow tracking, while neural network models would later enhance speed and precision on a relevant and specific object or area. 
+
+Overall, this project has demonstrated the feasibility of real-time drone detection and tracking using advanced neural network models. It sets a foundation for further advancements and the integration of more sophisticated features such as pose estimation and hybrid detection systems.
 
 # Credits
 - Yunet: https://github.com/geaxgx/depthai_yunet
