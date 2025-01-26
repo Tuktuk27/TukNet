@@ -1,5 +1,7 @@
 Swift Object Recognition and Tracking for fast Drones using High-Speed Cameras and Deep Learning
 
+Abstract
+
 This master’s thesis aims to rapidly identify, and comprehend objects of interest by combining high
 speed cameras, specifically Luxonis OAK-D Lite camera, with customed, tiny and efficient Pytorch 
 models, with the final goal of implementation on fast drones (fast-speed drones). The objective is to 
@@ -47,7 +49,8 @@ Results:
 ![image](https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a)
 
 
-CONCLUSION 
+CONCLUSION
+
 The results of this study demonstrate that the object detection model successfully met the real-time 
 requirements, achieving performance levels exceeding 100 FPS. The designed models were more 
 efficient than Yolov8n and Yolox and this has pointed out the importance of the model architecture to 
