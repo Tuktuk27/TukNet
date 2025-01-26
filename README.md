@@ -1,6 +1,6 @@
-Swift Object Recognition and Tracking for fast Drones using High-Speed Cameras and Deep Learning
+# Swift Object Recognition and Tracking for fast Drones using High-Speed Cameras and Deep Learning
 
-Abstract
+# Abstract
 
 This master’s thesis aims to rapidly identify, and comprehend objects of interest by combining high
 speed cameras, specifically Luxonis OAK-D Lite camera, with customed, tiny and efficient Pytorch 
@@ -13,7 +13,7 @@ This master’s thesis explores the realms of computer vision and machine learni
 and software to achieve swift and intelligent object recognition and dynamic tracking. 
 
 
-YOLO Models:
+# YOLO Models:
 
 - YOLOv8 and YOLOX: Balance of speed and accuracy, Anchor-free detection and adaptive training sample selection
 
@@ -22,7 +22,7 @@ Lightweight Models for Edge Devices:
 - ShuffleNet: Optimizes speed and performance on mobile and edge devices
 - YuNet: Real-time face detector with only 75 856 parameters
 
-Architecture:
+# Architecture:
 
 ShuffleNet backbone :
 
@@ -41,7 +41,7 @@ Architecture used:
 - TukNetv1: ShuffleNet backbone, customed neck, and YuNet head  
 - TukNetv2: ShuffleNet backbone, custom neck, and YOLOX head 
 
-Results:
+# Results:
 
 <img src="https://github.com/user-attachments/assets/1782d768-67bb-4629-9cdc-0ef978573d3b" alt="Sample Image" width="600">
 
@@ -55,7 +55,7 @@ Results:
 ![image](https://github.com/user-attachments/assets/f2ffa474-c450-4b91-b785-21945665169a)
 
 
-CONCLUSION
+# CONCLUSION
 
 The results of this study demonstrate that the object detection model successfully met the real-time 
 requirements, achieving performance levels exceeding 100 FPS. The designed models were more 
