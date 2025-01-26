@@ -78,4 +78,7 @@ Overall, this project has demonstrated the feasibility of real-time drone detect
 advanced neural network models. It sets a foundation for further advancements and the integration 
 of more sophisticated features such as pose estimation and hybrid detection systems.
 
-
+# Credits
+- Yunet: https://github.com/geaxgx/depthai_yunet
+- ShuffleNet: Ma, Ningning, et al. "Shufflenet v2: Practical guidelines for efficient cnn architecture design." Proceedings of the European conference on computer vision (ECCV). 2018
+- YoloX: Ge, Zheng & Liu, Songtao & Wang, Feng & Li, Zeming & Sun, Jian. (2021). YOLOX: Exceeding YOLO Series in 2021
