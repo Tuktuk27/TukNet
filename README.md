@@ -14,13 +14,16 @@ and software to achieve swift and intelligent object recognition and dynamic tra
 
 
 YOLO Models:
-YOLOv8 and YOLOX: Balance of speed and accuracy
-Anchor-free detection and adaptive training sample selection
-Lightweight Models for Edge Devices:
-ShuffleNet: Optimizes speed and performance on mobile and edge devices
-YuNet --> Real-time face detector with only 75 856 parameters
 
-TukNet:
+- YOLOv8 and YOLOX: Balance of speed and accuracy, Anchor-free detection and adaptive training sample selection
+
+Lightweight Models for Edge Devices:
+
+- ShuffleNet: Optimizes speed and performance on mobile and edge devices
+- YuNet: Real-time face detector with only 75 856 parameters
+
+Architecture:
+
 ShuffleNet backbone :
 
 <img src="https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f" alt="Sample Image" width="600">
@@ -33,9 +36,10 @@ Yunet head:
 
 <img src="https://github.com/user-attachments/assets/f2e0cb02-87b1-4b16-afbb-60cec18492ca" alt="Sample Image" width="300">
 
+Architecture used:
 
-TukNetv1: ShuffleNet backbone, customed neck, and YuNet head  
-TukNetv2: ShuffleNet backbone, custom neck, and YOLOX head 
+- TukNetv1: ShuffleNet backbone, customed neck, and YuNet head  
+- TukNetv2: ShuffleNet backbone, custom neck, and YOLOX head 
 
 Results:
 
