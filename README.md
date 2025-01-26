@@ -8,7 +8,7 @@ YuNet --> Real-time face detector with only 75 856 parameters
 
 TukNet:
 ShuffleNet backbone :
-![image](https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f) | width=100)
+![image](https://github.com/user-attachments/assets/857d40fd-62f5-4cf3-964d-4f68f28b216f = 100x200) | width=100)
 
 
 YOLOX head:
